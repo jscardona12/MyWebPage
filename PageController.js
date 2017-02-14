@@ -61,7 +61,7 @@ var app = angular.module('yapp', ['ngAnimate','ui.router']);
             [
                 {
                     name:"Tripulator",
-                    img:"img/tripulator.png",
+                    img:"img/tripulator.PNG",
                     text:"Tripulator is a vacation planner that allows you to plan hour to hour your vacations.",
                     animate:true,
                     play: function(){$scope.projects[0].animate = !$scope.projects[0].animate;}
