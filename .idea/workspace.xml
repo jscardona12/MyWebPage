@@ -2,107 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5994a37f-a041-4cd1-a021-75d4335a1c9f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/dist/angular-chart.js.tar.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/test/fixtures/29-tabs.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/test/fixtures/51-pie-update-colours.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/test/fixtures/54-not-enough-colours.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/test/fixtures/57-hex-colours.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/test/fixtures/bubble.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/test/fixtures/charts.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/test/fixtures/configure-line-chart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/test/fixtures/custom-directive.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/test/fixtures/dataset-override.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/test/fixtures/horizontal-bar-chart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/test/fixtures/options-override.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/test/fixtures/scatter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-animate/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-animate/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-animate/angular-animate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-animate/angular-animate.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-animate/angular-animate.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-animate/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-animate/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-animate/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/.codeclimate.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/.dockerignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/.jscsrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/.jshintignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/.node-version" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/Dockerfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/ISSUE_TEMPLATE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/PULL_REQUEST_TEMPLATE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/angular-chart.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/dist/angular-chart.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/dist/angular-chart.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/dist/angular-chart.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/examples/amd.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/examples/amd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/examples/app.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/examples/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/examples/bubble.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/examples/bubble.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/examples/charts.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/examples/charts.template.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/examples/commonjs.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/examples/commonjs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/examples/dataset-override.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/examples/dataset-override.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/examples/scatter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/examples/scatter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/examples/smoothscroll.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/examples/stacked-bars.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/examples/tables.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/examples/tabs.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/examples/ticks.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/examples/webpack.commonjs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/examples/webpack.config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/examples/xy.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/examples/xy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/gulpfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/test/fixtures/29-tabs.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/test/fixtures/29-tabs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/test/fixtures/51-pie-update-colours.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/test/fixtures/51-pie-update-colours.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/test/fixtures/54-not-enough-colours.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/test/fixtures/54-not-enough-colours.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/test/fixtures/57-hex-colours.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/test/fixtures/57-hex-colours.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/test/fixtures/bubble.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/test/fixtures/bubble.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/test/fixtures/charts.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/test/fixtures/charts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/test/fixtures/configure-line-chart.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/test/fixtures/configure-line-chart.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/test/fixtures/coverage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/test/fixtures/custom-directive.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/test/fixtures/custom-directive.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/test/fixtures/dataset-override.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/test/fixtures/dataset-override.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/test/fixtures/horizontal-bar-chart.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/test/fixtures/horizontal-bar-chart.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/test/fixtures/options-override.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/test/fixtures/options-override.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/test/fixtures/scatter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/test/fixtures/scatter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/test/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/test/mocha.opts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/test/support/setup.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/test/test.integration.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/test/test.unit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/tmp/bower_components/chart.js/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/tmp/bower_components/chart.js/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/tmp/bower_components/chart.js/.eslintignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comp/angular-chart.js/tmp/bower_components/chart.js/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/about.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PageController.js" afterPath="$PROJECT_DIR$/PageController.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/stylish-portfolio.css" afterPath="$PROJECT_DIR$/css/stylish-portfolio.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
@@ -127,15 +30,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="59" column="29" selection-start-line="59" selection-start-column="29" selection-end-line="59" selection-end-column="29" />
-              <folding>
-                <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#8903#8909#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-238">
+              <caret line="50" column="27" selection-start-line="50" selection-start-column="27" selection-end-line="50" selection-end-column="27" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -143,18 +43,62 @@
       <file leaf-file-name="PageController.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PageController.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+            <state relative-caret-position="250">
+              <caret line="73" column="37" selection-start-line="73" selection-start-column="37" selection-end-line="73" selection-end-column="37" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="stylish-portfolio.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="projects.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projects.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+              <folding>
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hobbies.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hobbies.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+              <folding>
+                <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="1" column="8" selection-start-line="3" selection-start-column="74" selection-end-line="3" selection-end-column="98" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stylish-portfolio.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/stylish-portfolio.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="157" column="34" selection-start-line="157" selection-start-column="34" selection-end-line="157" selection-end-column="34" />
+            <state relative-caret-position="527">
+              <caret line="261" column="33" selection-start-line="261" selection-start-column="33" selection-end-line="261" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -166,6 +110,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -175,7 +120,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/css/stylish-portfolio.css" />
         <option value="$PROJECT_DIR$/node_modules/index.js" />
         <option value="$PROJECT_DIR$/index.js" />
         <option value="$PROJECT_DIR$/views/login.html" />
@@ -183,8 +127,13 @@
         <option value="$PROJECT_DIR$/views/base.html" />
         <option value="$PROJECT_DIR$/scripts/app.js" />
         <option value="$PROJECT_DIR$/PageControllwe.js" />
-        <option value="$PROJECT_DIR$/PageController.js" />
+        <option value="$PROJECT_DIR$/home.html" />
+        <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/hobbies.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/PageController.js" />
+        <option value="$PROJECT_DIR$/projects.html" />
+        <option value="$PROJECT_DIR$/css/stylish-portfolio.css" />
       </list>
     </option>
   </component>
@@ -269,6 +218,12 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Juan\Documents\GitHub\MyWebPage" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -343,12 +298,14 @@
       <workItem from="1486997208825" duration="3169000" />
       <workItem from="1487001868866" duration="5549000" />
       <workItem from="1487013872865" duration="4239000" />
-      <workItem from="1487032847145" duration="656000" />
+      <workItem from="1487032847145" duration="1889000" />
+      <workItem from="1487078383784" duration="11309000" />
+      <workItem from="1487104243520" duration="3233000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21018000" />
+    <option name="totallyTimeSpent" value="36793000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -357,19 +314,19 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14947917" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32990867" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -378,12 +335,12 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14947917" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14947917" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32990867" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32990867" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -408,12 +365,101 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PageController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="25" column="37" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hobbies.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="51" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/stylish-portfolio.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6100">
+          <caret line="244" column="3" selection-start-line="244" selection-start-column="0" selection-end-line="244" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76675">
+          <caret line="3067" column="24" selection-start-line="3067" selection-start-column="24" selection-end-line="3067" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PageController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/stylish-portfolio.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3925">
+          <caret line="157" column="34" selection-start-line="157" selection-start-column="34" selection-end-line="157" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5175">
           <caret line="207" column="24" selection-start-line="207" selection-start-column="24" selection-end-line="207" selection-end-column="24" />
-          <folding>
-            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#8903#8909#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -429,10 +475,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#8903#8909#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -448,10 +491,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#8903#8909#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -479,10 +519,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#8903#8909#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -503,10 +540,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#8903#8909#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -521,13 +555,6 @@
     <entry file="file://$PROJECT_DIR$/img/bg.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76575">
-          <caret line="3063" column="9" selection-start-line="3063" selection-start-column="7" selection-end-line="3063" selection-end-column="9" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/index.js" />
@@ -548,30 +575,71 @@
     <entry file="file://$PROJECT_DIR$/views/dashboard.html" />
     <entry file="file://$PROJECT_DIR$/scripts/app.js" />
     <entry file="file://$PROJECT_DIR$/views/login.html" />
-    <entry file="file://$PROJECT_DIR$/PageController.js">
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+        <state relative-caret-position="-87644">
+          <caret line="3226" column="17" selection-start-line="3226" selection-start-column="17" selection-end-line="3226" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/stylish-portfolio.css">
+    <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="157" column="34" selection-start-line="157" selection-start-column="34" selection-end-line="157" selection-end-column="34" />
+        <state relative-caret-position="350">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="8" selection-start-line="3" selection-start-column="74" selection-end-line="3" selection-end-column="98" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PageController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="73" column="37" selection-start-line="73" selection-start-column="37" selection-end-line="73" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="59" column="29" selection-start-line="59" selection-start-column="29" selection-end-line="59" selection-end-column="29" />
+        <state relative-caret-position="-238">
+          <caret line="50" column="27" selection-start-line="50" selection-start-column="27" selection-end-line="50" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
           <folding>
-            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#8903#8909#0" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hobbies.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/stylish-portfolio.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="261" column="33" selection-start-line="261" selection-start-column="33" selection-end-line="261" selection-end-column="33" />
+          <folding />
         </state>
       </provider>
     </entry>

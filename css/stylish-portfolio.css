@@ -248,3 +248,20 @@ footer {
   bottom: 5px;
   right: 5px;
 }
+
+
+.ng-hide-add-active {
+    display: block!important;
+    -webkit-transition: 0.5s linear all;
+    transition: 0.5s linear all;
+}
+.ng-hide-remove-active {
+    display: block!important;
+    -webkit-transition: 0.5s linear all;
+    transition: 0.5s linear all;
+    -webkit-transition-delay: 0.9s;
+    transition-delay: 0.5s;
+}
+.ng-hide {
+    opacity: 0;
+}
