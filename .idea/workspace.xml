@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5994a37f-a041-4cd1-a021-75d4335a1c9f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/about.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PageController.js" afterPath="$PROJECT_DIR$/PageController.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/stylish-portfolio.css" afterPath="$PROJECT_DIR$/css/stylish-portfolio.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects.html" afterPath="$PROJECT_DIR$/projects.html" />
     </list>
     <ignored path="MyWebPage.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,11 +38,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PageController.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="PageController.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PageController.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="73" column="37" selection-start-line="73" selection-start-column="37" selection-end-line="73" selection-end-column="37" />
+            <state relative-caret-position="200">
+              <caret line="63" column="43" selection-start-line="63" selection-start-column="43" selection-end-line="63" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -53,8 +51,8 @@
       <file leaf-file-name="projects.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/projects.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+            <state relative-caret-position="275">
+              <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
               <folding>
                 <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
               </folding>
@@ -94,11 +92,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="stylish-portfolio.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="stylish-portfolio.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/stylish-portfolio.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="261" column="33" selection-start-line="261" selection-start-column="33" selection-end-line="261" selection-end-column="33" />
+            <state relative-caret-position="627">
+              <caret line="268" column="21" selection-start-line="268" selection-start-column="21" selection-end-line="268" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -131,9 +129,9 @@
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/hobbies.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/PageController.js" />
         <option value="$PROJECT_DIR$/projects.html" />
         <option value="$PROJECT_DIR$/css/stylish-portfolio.css" />
+        <option value="$PROJECT_DIR$/PageController.js" />
       </list>
     </option>
   </component>
@@ -300,12 +298,12 @@
       <workItem from="1487013872865" duration="4239000" />
       <workItem from="1487032847145" duration="1889000" />
       <workItem from="1487078383784" duration="11309000" />
-      <workItem from="1487104243520" duration="3233000" />
+      <workItem from="1487104243520" duration="4535000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36793000" />
+    <option name="totallyTimeSpent" value="38095000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -583,10 +581,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
+    <entry file="file://$PROJECT_DIR$/hobbies.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        <state relative-caret-position="400">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/stylish-portfolio.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="268" column="21" selection-start-line="268" selection-start-column="21" selection-end-line="268" selection-end-column="21" />
           <folding />
         </state>
       </provider>
@@ -599,10 +617,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PageController.js">
+    <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="73" column="37" selection-start-line="73" selection-start-column="37" selection-end-line="73" selection-end-column="37" />
+        <state relative-caret-position="350">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
           <folding />
         </state>
       </provider>
@@ -615,30 +633,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projects.html">
+    <entry file="file://$PROJECT_DIR$/PageController.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
-          <folding>
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hobbies.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-          <folding>
-            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/stylish-portfolio.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="261" column="33" selection-start-line="261" selection-start-column="33" selection-end-line="261" selection-end-column="33" />
+        <state relative-caret-position="200">
+          <caret line="63" column="43" selection-start-line="63" selection-start-column="43" selection-end-line="63" selection-end-column="43" />
           <folding />
         </state>
       </provider>

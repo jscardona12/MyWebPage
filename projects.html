@@ -8,8 +8,8 @@
                     <div class="col-md-4" ng-repeat="project in projects">
                         <div class="portfolio-item text-vertical-center" >
                             <h2> {{project.name}}</h2>
-                            <p  ng-hide="project.animate" ng-click="project.play()" style="font-size: large;font-family: 'Arial'">{{project.text}}</p>
-                            <img class=" img-portfolio img-responsive" ng-show="project.animate" ng-click="project.play()" src="{{project.img}}">
+                            <p  class="esconderse" ng-hide="project.animate" ng-click="project.play()" style="font-size: large;font-family: 'Arial'">{{project.text}}</p>
+                            <img class=" esconderse img-portfolio img-responsive" ng-show="project.animate" ng-click="project.play()" src="{{project.img}}">
                         </div>
                     </div>
 
