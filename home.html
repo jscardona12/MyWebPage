@@ -1,6 +1,24 @@
- <header class="header text-vertical-center">
-        <div class="text-vertical-center">
-            <h1>Hi I'm Juan Sebastian Cardona!</h1>
-            <img src="img/foto.jpg" class="img-circle" alt="Juan Cardona" width="304" height="304">
+<header class="header text-vertical-center col-md-12" ng-hide="hide">
+    <div class="text-vertical-center col-md-12">
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <h1>Hi I'm Juan Sebastian Cardona!</h1>
+        <img src="img/foto.jpg" class="img-circle" alt="Juan Cardona" width="304" height="304">
+    </div>
+    <div class="row">
+        <div class="col-md-12 text-center">
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <a ui-sref="about" class="btn btn-lg btn-light"  ng-click="closeHome()">About Me!</a>
+            <a ui-sref="hobbies" class="btn btn-lg btn-dark"  ng-click="closeHome()">My Hobbies!</a>
+            <a ui-sref="projects" class="btn btn-lg btn-light"  ng-click="closeHome()">My Projects!</a>
+            <a ui-sref="contact" class="btn btn-lg btn-dark"  ng-click="closeHome()">Contact Me!</a>
         </div>
- </header>
+    </div>
+</header>

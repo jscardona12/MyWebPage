@@ -27,6 +27,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/bootstrap-social.css" rel="stylesheet">
 
     <!-- Custom CSS -->
     <link href="css/stylish-portfolio.css" rel="stylesheet">
@@ -67,23 +68,8 @@
         </li>
     </ul>
 </nav>
-<header class="header text-vertical-center col-md-12" ng-hide="hide">
-    <div class="text-vertical-center col-md-12">
-        <h1>Hi I'm Juan Sebastian Cardona!</h1>
-        <img src="img/foto.jpg" class="img-circle" alt="Juan Cardona" width="304" height="304">
-    </div>
-    <div class="row">
-        <div class="col-md-12 text-center">
-            <h3>The buttons below are impossible to resist.</h3>
-            <a ui-sref="about" class="btn btn-lg btn-light"  ng-click="closeHome()">About Me!</a>
-            <a ui-sref="hobbies" class="btn btn-lg btn-dark"  ng-click="closeHome()">My Hobbies!</a>
-            <a ui-sref="projects" class="btn btn-lg btn-light"  ng-click="closeHome()">My Projects!</a>
-            <a ui-sref="contact" class="btn btn-lg btn-dark"  ng-click="closeHome()">Contact Me!</a>
-        </div>
-    </div>
-</header>
 
-    <div ui-view></div>
+    <div id="dimScreen"ui-view></div>
 
 
 <script>

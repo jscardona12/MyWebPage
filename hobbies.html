@@ -1,12 +1,14 @@
-<section id="hobbies" class="services bg-primary">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12 text-center">
-                <h1 style="font-weight: bold"> My Hobbies </h1>
-                <div class="col-md-4 text-center " ng-repeat="hobbie in hobbies">
-                    <h3>{{hobbie.name}}</h3>
+
+    <div style="width: 100%;height: 100%"class="bg-primary">
+        <div class="row text-vertical-center">
+            <div class="col-md-12 text-vertical-center ">
+                <br>
+                <br>
+                <h1> My Hobbies </h1>
+                <div class="col-md-4 text-vertical-center" ng-repeat="hobbie in hobbies">
+                    <h2>{{hobbie.name}}</h2>
                     <img src="{{hobbie.img}}" class="img-circle" alt="Juan Cardona" width="304" height="304">
-                    <h4>{{hobbie.info}}</h4>
+                    <h3>{{hobbie.info}}</h3>
                 </div>
 
                 <!-- /.row -->
@@ -14,4 +16,4 @@
         </div>
         <!-- /.container -->
     </div>
-</section>
+
